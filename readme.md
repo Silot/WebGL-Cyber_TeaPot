@@ -10,7 +10,7 @@ npm i && npm i -g budo bankai browserify watchify \ uglify-js wsnc baudio
 
 inside the  gl folder find the teapot.js and execute from terminal 
 
-budo grid.js -- -t glslify
+budo teapot.js -- -t glslify
 
 DONE !
 
