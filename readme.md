@@ -9,6 +9,7 @@ git clone https://github.com/Silot/WebGL-Cyber_TeaPot.git
       npm i && npm i -g budo bankai browserify watchify \ uglify-js wsnc baudio
       
    *Note DO NOT forget the backslash ( \ )
+   
 
 **inside the  gl folder find the teapot.js and execute from terminal** 
 
